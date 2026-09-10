@@ -16,7 +16,7 @@
     "openapi:validate": "node -e \"require('@apidevtools/swagger-parser').validate('openapi/openapi.yaml').then(a=>console.log('valid:',a.info.title,a.info.version)).catch(e=>{console.error(e.message);process.exit(1)})\""
   },
   "dependencies": {
-    "@prisma/client": "6.2.1",
+    "@prisma/client": "6.19.3",
     "next": "^15.5.25",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"

@@ -31,7 +31,7 @@
     "@types/react-dom": "^19.3.0",
     "@vitest/coverage-v8": "^3.2.7",
     "autoprefixer": "^10.5.6",
-    "eslint": "^8.57.1",
+    "eslint": "^10.10.0",
     "eslint-config-next": "^15.5.25",
     "jsdom": "^29.1.1",
     "openapi-types": "^12.1.3",
